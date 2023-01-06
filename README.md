@@ -1,1 +1,3 @@
-# about-me
+# Ash Fogelson
+* Pronouns: They/Them
+* Fullstack Developer
